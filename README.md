@@ -1,4 +1,4 @@
-# GreenPrint
+# GreenPrint - UI Mockups
 
 ### User Onboarding Screen
 <img width="360" height="560" alt="a6e81a42-34ec-4e98-8860-da90406dfe4a" src="https://github.com/user-attachments/assets/b089d10e-de6f-4da8-8358-4f03a123665d" />
